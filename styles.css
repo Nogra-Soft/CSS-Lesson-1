@@ -43,3 +43,25 @@ body {
 .btn-success:hover {
   background-color: rgb(26, 161, 121);
 }
+
+.block-1 {
+  background-color: tan;
+}
+
+.block-2 {
+  background-color: seagreen;
+}
+
+.block-3 {
+  background-color: slateblue;
+}
+
+.relative { 
+  position: relative;
+}
+
+.absolute {
+  top: 0;
+  left: 0;
+  position: absolute;
+}
